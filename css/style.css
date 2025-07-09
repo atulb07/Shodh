@@ -4758,6 +4758,8 @@ img{
 	position:relative;
 	width:100%;
 	display:block;
+	max-height: 350px;
+	max-width: 350px;
 }
 
 .gallery-block .inner-box .overlay-box{
